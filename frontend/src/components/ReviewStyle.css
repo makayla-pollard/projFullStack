@@ -1,0 +1,33 @@
+.btnEdit{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.btnEdit:hover{
+    color: #E05F47;
+    cursor: pointer;
+}
+
+.btnSend{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.btnSend:hover{
+    color: #E05F47;
+    cursor: pointer;
+}
+
+.container{
+    /* border: 5px solid black; */
+    margin: 10px;
+    padding: 10px;
+    width: min-content;
+    
+}
+
+textarea{
+    resize: none;
+}

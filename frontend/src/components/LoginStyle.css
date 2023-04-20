@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+.mainContainerLog {
+    width: 700px;
+    height: 500px;
+    margin-top: 50px;
+    border: 5px solid #FDF2BC;
+    display: inline-block;
+    align-items: center;
+}
+
+.formContainer {
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    border: 2px solid #FDF2BC;
+    align-items: flex-start;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.headerLog {
+    font-size: 50px;
+    align-self: flex-start;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+
+.formLog {
+    display: block;
+    justify-content: flex-start;
+    margin-top:15px;
+}
+
+.usernameLog {
+    font-size: 20px;
+    margin: 5px;
+    align-self: flex-start;
+}
+
+.usernameInputLog {
+    font-size: 16px;
+    margin: 5px;
+    align-self: flex-start;
+}
+
+.passwordLog {
+    font-size: 20px;
+    margin: 5px;
+    align-self: flex-start;
+}
+
+.passwordInputLog {
+    font-size: 16px;
+    margin: 5px;
+    align-self: flex-start;
+}
+
+.btnSubmitLog {
+    font-size: 20px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
+:hover.btnSubmitLog {
+    color: #E05F47;
+    cursor: pointer;
+}
+
+.regLinkContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+.reg {
+    align-self: center;
+    margin-left: 38px;
+}
+
+.btnReg {
+    font-size: 20px;
+    align-self: center;
+    margin-left: 20px;
+}
+
+:hover.btnReg {
+    color: #E05F47;
+    cursor: pointer;
+}
